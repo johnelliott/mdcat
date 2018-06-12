@@ -1,0 +1,239 @@
+{
+  "atoms": [],
+  "cards": [
+    [
+      "pt-video-card",
+      {
+        "id": "1f9c88ed-588c-4e3e-9a28-de31e76f2b09",
+        "type": "Video",
+        "class": "youtube",
+        "content": "https://www.youtube.com/watch?v=MmcybeQ4sU4",
+        "videoChecked": "youtube"
+      }
+    ]
+  ],
+  "markups": [
+    [
+      "a",
+      [
+        "href",
+        "https://www.thedailybeast.com/women-surge-on-night-of-electoral-firsts-as-california-long-vote-count-gets-underway"
+      ]
+    ],
+    [
+      "em"
+    ],
+    [
+      "a",
+      [
+        "href",
+        "http://www.philly.com/philly/news/politics/elections/seth-grossman-jeff-van-drew-new-jersey-congressional-election-primary-20180611.html"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.thedailybeast.com/new-analysis-finds-more-republicans-at-risk-in-midterms-as-dems-expand-target-list-to-101"
+      ]
+    ],
+    [
+      "a",
+      [
+        "href",
+        "https://www.thedailybeast.com/the-democratic-partys-campaign-arm-grows-more-toxic-in-midterm-races"
+      ]
+    ]
+  ],
+  "version": "0.3.0",
+  "sections": [
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Seth Grossman, who surprisingly won the Republican primary in "
+        ],
+        [
+          0,
+          [
+            0
+          ],
+          1,
+          "New Jersey’s 2nd Congressional District"
+        ],
+        [
+          0,
+          [],
+          0,
+          " last week, is already drawing some unwanted attention in a race widely viewed as a Democratic pickup opportunity in November. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "In a video captured by American Bridge Political Action Committee, a liberal group, Grossman said: “The whole idea of diversity is a bunch of crap and un-American.\""
+        ]
+      ]
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The video, first provided to "
+        ],
+        [
+          0,
+          [
+            1,
+            2
+          ],
+          2,
+          "The Inquirer"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", was reportedly recorded at a campaign forum event in April. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "“Now what diversity has become, it's been an excuse by Democrats, communists, and socialists, basically, to say that we’re not all created equal; that some people, if somebody is lesser qualified, they will get a job anyway or they’ll get into college anyway because of the tribe that they’re with, what group, what box they fit into,” Grossman continued in the footage. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "After being provided the video, Grossman told "
+        ],
+        [
+          0,
+          [
+            1
+          ],
+          1,
+          "The Inquirer"
+        ],
+        [
+          0,
+          [],
+          0,
+          " by telephone that he stood by those remarks. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "“I said it,” the candidate admitted. “I believe in America that each individual should be judged on nothing but his or her talent, character and hard work. I’m rejecting the whole premise of diversity as a virtue.”"
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The candidate, who beat out frontrunner Hirsh Singh, will face off against conservative Democrat Jeff Van Drew in the southern New Jersey district. The seat was vacated "
+        ],
+        [
+          0,
+          [
+            3
+          ],
+          1,
+          "when Rep. Frank LoBiondo"
+        ],
+        [
+          0,
+          [],
+          0,
+          " (R-NJ) decided not to run for re-election late last year. He had represented the district since 1995. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "The Democratic Congressional Campaign Committee "
+        ],
+        [
+          0,
+          [
+            4
+          ],
+          1,
+          "backed Van Drew"
+        ],
+        [
+          0,
+          [],
+          0,
+          ", who beat out a host of progressive challengers to win his primary, and views the district as one of the most promising opportunities to flip a seat on the way to regaining a majority in the House of Representatives. "
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      [
+        [
+          0,
+          [],
+          0,
+          "Grossman is also deeply overmatched in terms of fundraising with just over $10,000 on hand after the primary compared to Van Drew’s $400,000."
+        ]
+      ]
+    ],
+    [
+      1,
+      "p",
+      []
+    ]
+  ]
+}
